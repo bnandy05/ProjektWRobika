@@ -1,3 +1,4 @@
+
 *{
     font-family: 'Quicksand', sans-serif;   
     color: white;
@@ -22,4 +23,44 @@ body
 h2
 {
     margin-top: 2vh;
+}
+body{
+    font-family: 'Quicksand', sans-serif;
+    background: rgb(42,43,46);
+    background: linear-gradient(159deg, rgba(42,43,46,1) 0%, rgba(0,0,0,1) 100%);
+    background-size: cover;
+    height: 100vh;   
+    color: white;
+    overflow-y: hidden;
+}
+
+.card{
+    background: rgb(42,43,46);
+    background: linear-gradient(159deg, rgba(42,43,46,1) 0%, rgba(0,0,0,1) 100%);
+    border: none;
+    border-radius: 10px;
+    transition: 0.5s ;
+    transition-timing-function: cubic-bezier(0,.08,.39,.99);
+}
+
+.card:hover{
+    transform: scale(1.05);
+}
+
+.card>img{
+    border-radius: 10px;
+}
+
+h1{
+    text-shadow: 0.15vw 0.15vw black;
+}
+
+.btn{
+    background-color: grey;
+    border: none;
+    transition: 0.5s ;
+}
+
+.btn:hover{
+    transform: scale(1.05);
 }
