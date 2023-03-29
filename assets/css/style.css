@@ -1,4 +1,3 @@
-
 *{
     font-family: 'Quicksand', sans-serif;   
     color: white;
@@ -36,6 +35,8 @@ body{
 
 .card>img{
     border-radius: 10px;
+    height: 60vh;
+    width: 100%;
 }
 
 h1{
