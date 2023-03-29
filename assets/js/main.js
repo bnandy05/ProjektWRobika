@@ -1,4 +1,5 @@
-const deathnote = ['<iframe title="indavideo video player" allowfullscreen scrolling="no" class="indavideo-player"  id="player-9602cdebd0" type="text/html" width="640" height="360" src="//embed.indavideo.hu/player/video/9602cdebd0" frameborder="0"></iframe>', 
+//#region Death Note link lista
+const deathnote = ['<iframe title="indavideo video player" allowfullscreen scrolling="no" class="indavideo-player"  id="player-9602cdebd0" type="text/html" width="640" height="360" src="//embed.indavideo.hu/player/video/9602cdebd0" frameborder="0"></iframe>',
 '<iframe title="indavideo video player" allowfullscreen scrolling="no" class="indavideo-player"  id="player-ab9cb32ed3" type="text/html" width="640" height="360" src="//embed.indavideo.hu/player/video/ab9cb32ed3" frameborder="0"></iframe>', 
 '<iframe title="indavideo video player" allowfullscreen scrolling="no" class="indavideo-player"  id="player-a86598d92e" type="text/html" width="640" height="360" src="//embed.indavideo.hu/player/video/a86598d92e" frameborder="0"></iframe>  ', 
 '<iframe title="indavideo video player" allowfullscreen scrolling="no" class="indavideo-player"  id="player-429a9c6a9a" type="text/html" width="640" height="360" src="//embed.indavideo.hu/player/video/429a9c6a9a" frameborder="0"></iframe>', 
@@ -33,5 +34,22 @@ const deathnote = ['<iframe title="indavideo video player" allowfullscreen scrol
 '<iframe title="indavideo video player" allowfullscreen scrolling="no" class="indavideo-player"  id="player-940d020626" type="text/html" width="640" height="360" src="//embed.indavideo.hu/player/video/940d020626" frameborder="0"></iframe>', 
 '<iframe title="indavideo video player" allowfullscreen scrolling="no" class="indavideo-player"  id="player-8c880b03dc" type="text/html" width="640" height="360" src="//embed.indavideo.hu/player/video/8c880b03dc" frameborder="0"></iframe>', 
 '<iframe title="indavideo video player" allowfullscreen scrolling="no" class="indavideo-player"  id="player-9fc46b13a6" type="text/html" width="640" height="360" src="//embed.indavideo.hu/player/video/9fc46b13a6" frameborder="0"></iframe>', 
-'<iframe title="indavideo video player" allowfullscreen scrolling="no" class="indavideo-player"  id="player-3e923eda28" type="text/html" width="640" height="360" src="//embed.indavideo.hu/player/video/3e923eda28" frameborder="0"></iframe>', 
+'<iframe title="indavideo video player" allowfullscreen scrolling="no" class="indavideo-player"  id="player-3e923eda28" type="text/html" width="640" height="360" src="//embed.indavideo.hu/player/video/3e923eda28" frameborder="0"></iframe>',
 '<iframe title="indavideo video player" allowfullscreen scrolling="no" class="indavideo-player"  id="player-0bbf9230e9" type="text/html" width="640" height="360" src="//embed.indavideo.hu/player/video/0bbf9230e9" frameborder="0"></iframe>']
+
+//#endregion 
+
+
+//#region Kakegurui link lista
+
+
+
+
+//#endregion
+
+//#region Berserk link lista
+
+
+
+
+//#endregion
