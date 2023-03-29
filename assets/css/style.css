@@ -53,6 +53,7 @@ body{
     border-radius: 10px;
     height: 60vh;
     width: 100%;
+    transition: 0.5s;
 }
 
 h1{
