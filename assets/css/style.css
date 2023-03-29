@@ -19,6 +19,10 @@ button:hover{
     display: none;
 }
 
+option, select{
+    color: black;
+}
+
 h2,h1{
     text-align: center;
 }
@@ -46,16 +50,21 @@ body{
     border-radius: 10px;
     transition: 0.5s ;
     transition-timing-function: cubic-bezier(0,.08,.39,.99);
-    margin-top: 8vh;
+    margin-top: 12vh;
+}
+
+label
+{
+    margin-top: 1.5vh;
 }
 
 .card:hover{
     transform: scale(1.05);
 }
 
-.card>img{
+.card>a>img{
     border-radius: 10px;
-    height: 60vh;
+    height: 55vh;
     width: 100%;
     transition: 0.5s;
 }

@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/lejatszo.css">
 </head>
-<body>
+<body onload="Betolt()">
     <div class="sidebar">
         <a href="index.html">Főoldal</a>
         <a class="active" href="#deathnote">Death Note</a> <!-- A class="active" mindig az adott anime oldalán legyen  -->
@@ -30,6 +30,9 @@
                 </div>
                 </div>
                 <div class="col-md-12 text-justify text-center align-content-center">
+                    <label for="reszek">Rész:</label>
+                    <select name="reszek" id="valaszto" onchange="Valtoztat()">
+                    </select>
                     <h5 class="mufajok">Misztikus, Természetfeletti, Sejtelmes, Rendőrség, Pszichológiai</h5>
                     <p>
                         Egy halálisten végezhet bárkivel - ha látja áldozata arcát, és leírja a nevét egy különleges füzetbe, a Halállistába. Egy napon Ryuk, megunva a halálistenek egyhangú életét, ledob egy ilyet az emberi világba. A füzet a kitűnő tanuló Yagami Lightnál köt ki, akit elszomorít a világ és a társadalom állapota, így úgy dönt, leírja egy bűnöző nevét… a kísérlet sikerén megdöbbenve pedig hamar rájön, mekkora hatalom birtokába jutott. Elhatározza, hogy megteremt egy új világot, ahol nincs bűnözés, az emberek pedig őt tisztelik istenként. A rendőrség természetesen a sorozatgyilkos nyomába ered, ám hamar rádöbbennek, képtelenek megtalálni. Végső megoldásként a világhírűvé vált, fiatal és zárkózott nyomozó segítségét kérik, akit a közvélemény csak L néven ismer.
@@ -41,3 +44,5 @@
     </div>
 </body>
 </html>
+
+<script src="assets/js/deathnote.js"></script>
